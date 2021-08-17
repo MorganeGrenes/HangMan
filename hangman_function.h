@@ -1,0 +1,7 @@
+#ifndef HANGMAN_FUNCTION_H_INCLUDED
+#define HANGMAN_FUNCTION_H_INCLUDED
+
+void hangman();
+
+#endif // HANGMAN_FUNCTION_H_INCLUDED
+
